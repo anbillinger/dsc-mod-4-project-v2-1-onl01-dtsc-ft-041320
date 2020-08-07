@@ -7,7 +7,8 @@
 Build neural network using chest x-rays from pediactric patients to predict whether or not the patient has pneumonia.
 
 ## Interactive Prediction Tool:
-[Link](http://alexbillinger.pythonanywhere.com/)
+### [Link](http://alexbillinger.pythonanywhere.com/)
+
 By uploading an image, this tool will use the developed model to predict the probability that the patient has pneumonia.
 
 ## Contents of Repository
